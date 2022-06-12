@@ -1,0 +1,30 @@
+th {
+    font-family: "Viner Hand ITC";
+    font-size: 29px;
+}
+#mainHeading {
+    font-size: 22px;
+}
+.headings {
+    font-size: 17px;
+}
+.headings2 {
+    color: black;
+    font-size: 40px;
+    font-family: "Festive", cursive;
+}
+.hyperlink {
+    color: yellow;
+}
+a:visited {
+    color: rgb(0, 255, 255);
+}
+#marqueeHeading{
+    font-family: "Rampart one", cursive;
+    font-variant: small-caps;
+}
+.tableContents {
+    font-family: "Ink Free";
+    font-weight: 300px;
+    font-size: 17px;
+}
